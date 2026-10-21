@@ -2,6 +2,8 @@
 
 # Data Science Glossary: Machine Learning and Advanced Modeling
 
+For the repository overview, unit contents, and PDF slide-deck completeness tracker, see [README-REPOSITORY.md](README-REPOSITORY.md). Every numbered learning-unit folder should contain its corresponding slide deck as a PDF.
+
 Key terms, functions and methods from the machine learning unit, running from probability to recommender systems. This glossary picks up where the [Unit 2 glossary](https://github.com/CharleyHananiaGA/DSB-Unit-02/blob/main/Readme.MD) (sections 1–11: Python, pandas and EDA) left off, so numbering starts at section 12, and terms already defined there are linked rather than repeated. Each of the 548 entries says what the term means, where it appears in the course, and (where relevant) shows working code.
 
 **How to read the examples.** Examples follow the course notebooks and assume the standard imports below. Extra libraries are imported inside the entries that need them; `statsmodels`, `imbalanced-learn`, `xgboost`, `arch` and `shap` may need installing with `pip install`.
